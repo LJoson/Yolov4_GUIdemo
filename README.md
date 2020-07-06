@@ -6,7 +6,7 @@
 
 - **Windows 10**
 - **QT 5.13**
-- **OpenCV 4.2   **
+- **OpenCV 4.2**
 - **Visual Studio 2017**
 - Cuda 10.0（optional）
 - Cudnn >= 7.0（optional）
