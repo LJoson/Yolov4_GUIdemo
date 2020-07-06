@@ -11,12 +11,13 @@
 - Cuda 10.0（optional）
 - Cudnn >= 7.0（optional）
 
-下载权重文件：[yolov4_weights](https://pan.baidu.com/s/16js1bfzKFiQ6mJ7NiP_DtA)  提取码：4mic
+下载权重文件：[yolov4_weights](https://pan.baidu.com/s/1_utwehFeFzgYgp8aBTeyvw 
+)  提取码：x6uy
 
 将下载的权重文件放置在  **./model**  目录下
 
 解压3rdparty到项目目录
 
-（参考博客[Yolov4-QtGUI](https://blog.csdn.net/weixin_42448226/article/details/105752224)）
+（更多参考博客[Yolov4-QtGUI](https://blog.csdn.net/weixin_42448226/article/details/105752224)）
 
 更多勘误待更新。
