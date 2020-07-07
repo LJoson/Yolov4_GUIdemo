@@ -18,6 +18,6 @@
 
 解压3rdparty到项目目录
 
-（更多参考博客[Yolov4-QtGUI](https://blog.csdn.net/weixin_42448226/article/details/105752224)）
+（更多参考博客[Yolov4-QtGUI](https://lj_evan.gitee.io/views/cs/guidemo.html)
 
 更多勘误待更新。
