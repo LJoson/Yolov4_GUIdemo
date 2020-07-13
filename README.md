@@ -1,6 +1,6 @@
 # Yolov4-GUIdemo
 
-- Yolov4-QtGUI是基于 [Yolov4-QtGUI](https://github.com/scutlrr/Yolov4-QtGUI#yolov4-qtgui) 项目开发的可视化目标检测界面，可以简便选择本地图片、摄像头来展示图像处理算法的结果
+- Yolov4-QtGUI是基于 [Yolov4-QtGUI](https://github.com/scutlrr/Yolov4-QtGUI#yolov4-qtgui) 及[QtGuiDemo](https://github.com/jmu201521121021/QtGuiDemo)项目开发的可视化目标检测界面，可以简便选择本地图片、摄像头来展示图像处理算法的结果
 
 ## 开发软件环境
 
