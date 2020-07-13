@@ -20,4 +20,4 @@
 
 （更多参考博客[Yolov4-QtGUI](https://lj_evan.gitee.io/views/cs/guidemo.html)
 
-更多勘误待更新。
+demo：在/×64文件下，有在我本机的release打包文件，可尝试运行，提issues.
