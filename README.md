@@ -14,7 +14,7 @@
 下载权重文件：[yolov4_weights](https://pan.baidu.com/s/1_utwehFeFzgYgp8aBTeyvw 
 )  提取码：x6uy
 
-将下载的权重文件放置在  **./model**  目录下
+将下载的权重文件放置在  **x64/model**  目录下
 
 解压3rdparty到项目目录
 
